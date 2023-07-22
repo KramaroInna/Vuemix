@@ -9,3 +9,4 @@
       "version": "0.1.0",
       "license": "MIT",
       "dependencies": {
+        "@vue/server-renderer": "3.2.26",
