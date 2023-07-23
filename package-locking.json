@@ -10,3 +10,4 @@
       "license": "MIT",
       "dependencies": {
         "@vue/server-renderer": "3.2.26",
+        "cookie-parser": "1.4.6",
