@@ -30,3 +30,4 @@
         "eslint-plugin-vue": "8.3.0",
         "husky": "7.0.4",
         "nodemon": "2.0.15",
+        "prettier": "2.5.1",
