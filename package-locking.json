@@ -40,3 +40,4 @@
       "integrity": "sha512-Sm/S9Or6nN8uiFsQU1yodyDW3MWXQhFeqzMPM+t8MJjM+pLsnFVxFZzkpXKvUXh+Gz9cbMoYYs484+Jw/NTEFQ==",
       "bin": {
         "parser": "bin/babel-parser.js"
+      },
