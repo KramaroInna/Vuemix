@@ -41,3 +41,4 @@
       "bin": {
         "parser": "bin/babel-parser.js"
       },
+      "engines": {
