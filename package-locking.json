@@ -52,3 +52,4 @@
       "dev": true,
       "peer": true,
       "dependencies": {
+        "regenerator-runtime": "^0.13.4"
