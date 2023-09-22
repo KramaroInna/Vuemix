@@ -64,3 +64,4 @@
       "integrity": "sha512-3fKhuICS1lMz0plI5ktOE/yEtBRMVxplzRkdn6mJQ197XiY0JnrzYV0+Mxozq3JZ8SBV9Ecurmw1XsGbwOf+Sg==",
       "dev": true,
       "peer": true,
+      "dependencies": {
