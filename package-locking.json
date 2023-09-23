@@ -65,3 +65,4 @@
       "dev": true,
       "peer": true,
       "dependencies": {
+        "core-js-pure": "^3.20.2",
