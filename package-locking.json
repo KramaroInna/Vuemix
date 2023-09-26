@@ -68,3 +68,4 @@
         "core-js-pure": "^3.20.2",
         "regenerator-runtime": "^0.13.4"
       },
+      "engines": {
