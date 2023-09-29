@@ -72,3 +72,4 @@
         "node": ">=6.9.0"
       }
     }
+    "node_modules/@cypress/request": {
