@@ -83,3 +83,4 @@
         "caseless": "~0.12.0",
         "combined-stream": "~1.0.6",
         "extend": "~3.0.2",
+        "forever-agent": "~0.6.1",
