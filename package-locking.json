@@ -90,3 +90,4 @@
         "isstream": "~0.1.2",
         "json-stringify-safe": "~5.0.1",
         "mime-types": "~2.1.19",
+        "performance-now": "^2.1.0",
