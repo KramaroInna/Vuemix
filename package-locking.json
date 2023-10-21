@@ -92,3 +92,4 @@
         "mime-types": "~2.1.19",
         "performance-now": "^2.1.0",
         "qs": "~6.5.2",
+        "safe-buffer": "^5.1.2",
