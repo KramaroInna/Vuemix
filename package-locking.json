@@ -101,3 +101,4 @@
         "node": ">= 6"
       }
     },
+    "node_modules/@cypress/request/node_modules/qs": {
