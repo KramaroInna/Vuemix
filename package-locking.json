@@ -102,3 +102,4 @@
       }
     },
     "node_modules/@cypress/request/node_modules/qs": {
+      "version": "6.5.3",
