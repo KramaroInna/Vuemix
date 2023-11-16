@@ -116,3 +116,4 @@
       "integrity": "sha512-skbBzPggOVYCbnGgV+0dmBdW/s77ZkAOXIC1knS8NagwDjBrNC1LuXtQJeiN6l+m7lzmHtaoUw/ctJKdqkG57Q==",
       "dev": true,
       "dependencies": {
+        "debug": "^3.1.0",
