@@ -120,3 +120,4 @@
         "lodash.once": "^4.1.1"
       }
     },
+    "node_modules/@cypress/xvfb/node_modules/debug": {
