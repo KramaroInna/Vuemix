@@ -1,4 +1,4 @@
-{
+a{
   "name": "vuemix",
   "version": "0.1.0",
   "lockfileVersion": 2,
@@ -129,3 +129,4 @@
         "ms": "^2.1.1"
       }
     },
+    "node_modules/@eslint/eslintrc": {
